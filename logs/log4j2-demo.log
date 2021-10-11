@@ -1,0 +1,12 @@
+2021-10-05 01:30:26.074  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:30:26.081 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
+2021-10-05 01:32:34.024  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:32:34.032 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
+2021-10-05 01:33:07.652  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:33:07.658 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
+2021-10-05 01:33:22.607  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:33:22.614 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
+2021-10-05 01:33:48.669  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:33:48.676 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
+2021-10-05 01:34:14.287  INFO DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Ajout du contrat
+2021-10-05 01:34:14.293 ERROR DESKTOP-KHMEVC1 --- [           main] t.e.s.s.EmployeServiceImpl               : Erreur dans l'ajout du contrat : java.lang.NullPointerException
